@@ -1,0 +1,43 @@
+body
+{
+  background-color:pink;
+}
+.heading
+{
+  text-align:center;
+  font-size:50px;
+}
+#topbar
+ {
+   background-color:#C71585;
+   padding:26px;
+   text-align:center;
+ }
+.menu
+{
+  font-size:30px;
+  padding:30px;
+}
+.alignment
+{
+  text-align:center;
+}
+.image
+{
+  width:50%;height:500px;
+}
+.para
+{
+  font-family: Georgia;
+  font-size: 20px;
+  line-height:1;
+  text-align:justify;
+  Padding:20px;
+}
+
+u1
+{
+  font-size: 40px;
+  line-height:2;
+  Font-family: cursive;
+}
